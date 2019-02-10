@@ -10,7 +10,7 @@
 * Node.js 개념익히기
 
 ## 설치
-1. git checkout
+1. git checkout  
 ```it clone http://[git repo url]```
 
 
@@ -19,9 +19,9 @@
 ```cd ReduxSimpleStarter```
 
 
-3. node module 설치
+3. node module 설치  
 ```npm install```
 
 
-4. 실행
+4. 실행  
 ```npm start```
