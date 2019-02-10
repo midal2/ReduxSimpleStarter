@@ -6,20 +6,21 @@
 
 
 ### 시작전 준비사항
+---
 > Node.js 설치
 > Node.js 개념익히기
 
 ### 설치
-
-1. #### git checkout
+---
+1. git checkout
 > git clone http://**git repo url**
 
-99. #### checkout 경로 이동
+2. checkout 경로 이동
 * checkout 후 폴더이름 변경하고자 할경우 변경
-> cd ReduxSimpleStarter
+ * >cd ReduxSimpleStarter
 
-99. #### node module 설치
+3. node module 설치
 > npm install
 
-99. #### 실행
+4. 실행
 > npm start
