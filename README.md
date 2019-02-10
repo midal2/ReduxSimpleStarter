@@ -13,14 +13,14 @@
 ### 설치
 ---
 1. git checkout
-> git clone http://**git repo url**
+>> git clone http://**git repo url**
 
 2. checkout 경로 이동
 * checkout 후 폴더이름 변경하고자 할경우 변경
- * >cd ReduxSimpleStarter
+>> cd ReduxSimpleStarter
 
 3. node module 설치
-> npm install
+>> npm install
 
 4. 실행
-> npm start
+>> npm start
