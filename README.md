@@ -6,8 +6,10 @@
 
 
 ## 시작전 준비사항
+* Git 설치
 * Node.js 설치
-* Node.js 개념익히기
+  * Node.js 개념익히기
+* Atom에디터 준비
 
 ## 설치
 1. git checkout  
