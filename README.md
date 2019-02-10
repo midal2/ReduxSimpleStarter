@@ -16,7 +16,7 @@
 
 2. checkout 경로 이동
  * checkout 후 폴더이름 변경하고자 할경우 변경
- * ```cd ReduxSimpleStarter```
+ ```cd ReduxSimpleStarter```
 
 
 3. node module 설치
