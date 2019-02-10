@@ -13,15 +13,11 @@
 1. git checkout  
 ```it clone http://[git repo url]```
 
-
 2. checkout 경로 이동
  * checkout 후 폴더이름 변경하고자 할경우 변경  
 ```cd ReduxSimpleStarter```
 
-
 3. node module 설치  
 ```npm install```
-
-
 4. 실행  
 ```npm start```
