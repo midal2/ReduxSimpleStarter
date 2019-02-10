@@ -11,7 +11,7 @@
 
 ## 설치
 1. git checkout
-> git clone http://**git repo url**
+   \- git clone http://**git repo url**
 
 
 2. checkout 경로 이동
